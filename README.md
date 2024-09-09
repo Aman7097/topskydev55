@@ -30,6 +30,13 @@ I am a **Senior Full-Stack Developer** with 12 years of experience in building s
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
+### 🛠 Tools & Technologies
+
+- Version Control: `Git`, `GitHub`, `GitLab`
+- CI/CD: `Jenkins`, `GitHub Actions`, `Selenium`
+- DevOps: `Docker`, `Kubernetes`, `AWS`, `Aure`, `GCP`
+- BaaS: `Heroku`, `Firebase`, `Amplify`
+
 ## 🌟 GitHub Stats
 ###
 

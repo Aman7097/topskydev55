@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jordan!
+# 👨‍💻 Full Stack Developer
 
 I am a **Senior Full-Stack Developer** with 12 years of experience in building scalable web applications and services. I specialize in both frontend and backend technologies, offering a versatile skill set for a wide range of development needs.
 
